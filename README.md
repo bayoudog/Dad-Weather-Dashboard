@@ -24,7 +24,7 @@ Here the 5 day forecast is displayed with matching weather Icons
 
 ## Deployment
 
-* https://ajsnow56.github.io/Weather-Dashboard/
+* https://bayoudog.github.io/Dad-Weather-Dashboard/
 
 
 
@@ -33,9 +33,9 @@ Here the 5 day forecast is displayed with matching weather Icons
 Below is my email is you have any questions.
 
 
-* Email: ajsnow56@gmail.com
+* Email: gcloutet@gmail.com
 
 ## Contributors
-Alex Nieves
+Zach Cloutet
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2020 Zanya Pizza Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
