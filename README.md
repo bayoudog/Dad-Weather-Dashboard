@@ -5,7 +5,7 @@ This is a weater dashboard that accepts a users input for a US city, and fetches
 ## User Story
 
 ```
-AS A traveler and avid van lifer, I travel a LOT. Sometimes weather conditions can prohibit me from getting to or staying where I want to. Thats why I created this webpage. It is crucial for me to know the daily weather as well as 5 day forecast as to properly prepare for my next travels.
+AS A world traveler and avid van lifer, I travel a LOT. Sometimes weather conditions can prohibit me from getting to or staying where I want to. Thats why I created this webpage. It is crucial for me to know the daily weather as well as 5 day forecast as to properly prepare for my next travels.
 ```
 
 ## Functionality
@@ -36,6 +36,6 @@ Below is my email is you have any questions.
 * Email: gcloutet@gmail.com
 
 ## Contributors
-Zach Cloutet
+Zach 
 - - -
 © 2020 Zanya Pizza Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
